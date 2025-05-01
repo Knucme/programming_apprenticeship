@@ -1,0 +1,10 @@
+Learned so far: 
+
+ - Variables
+ - Lists
+ - If/else statements
+ - Dictionaries
+ - User input and while loops
+ - Functions
+ - Class
+
