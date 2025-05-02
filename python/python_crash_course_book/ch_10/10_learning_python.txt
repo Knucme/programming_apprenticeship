@@ -1,10 +1,10 @@
 Learned so far: 
 
- - Variables
- - Lists
- - If/else statements
- - Dictionaries
- - User input and while loops
- - Functions
- - Class
+ - In Python you can use Variables
+ - In Python you can use Lists
+ - In Python you can use If/else statements
+ - In Python you can use Dictionaries
+ - In Python you can use User input and while loops
+ - In Python you can use Functions
+ - In Python you can use Class
 
